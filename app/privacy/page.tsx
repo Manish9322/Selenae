@@ -1,8 +1,8 @@
 import { Animated } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Privacy Policy - GlowVita",
-  description: "GlowVita Privacy Policy and Data Usage",
+  title: "Privacy Policy - Selenae",
+  description: "Selenae Privacy Policy and Data Usage",
 }
 
 export default function PrivacyPage() {
@@ -25,7 +25,7 @@ export default function PrivacyPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-pink-700 dark:text-pink-400 mb-4">1. Introduction</h2>
               <p className="mb-4">
-                At GlowVita, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our beauty and wellness services.
+                At Selenae, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our beauty and wellness services.
               </p>
               <p>
                 Please read this policy carefully. If you do not agree with the terms of this privacy policy, please do not access the site or use our services.
@@ -105,7 +105,7 @@ export default function PrivacyPage() {
                 <li>Setting browser cookies preferences</li>
               </ul>
               <p>
-                To exercise these rights, please contact us at privacy@glowvita.com.
+                To exercise these rights, please contact us at privacy@selenae.com.
               </p>
             </section>
           </Animated>

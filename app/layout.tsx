@@ -19,8 +19,8 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "GlowVita - Beauty & Wellness Booking",
-  description: "Book your perfect beauty and wellness experience with GlowVita",
+  title: "Selenae - Beauty & Wellness Booking",
+description: "Book your perfect beauty and wellness experience with Selenae",
   generator: "Next.js",
   viewport: "width=device-width, initial-scale=1.0, maximum-scale=1.0",
 }

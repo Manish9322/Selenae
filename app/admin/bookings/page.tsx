@@ -25,7 +25,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Bookings Management | GlowVita Admin",
+  title: "Bookings Management | Selenae Admin",
 }
 
 export default function BookingsPage() {

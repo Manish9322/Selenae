@@ -314,7 +314,7 @@ export default function HelpCenterPage() {
                   </div>
                   <div>
                     <p className="text-sm font-medium text-gray-500 dark:text-gray-400">Email Us</p>
-                    <p className="text-gray-900 dark:text-white text-base font-medium">support@glowvita.com</p>
+                    <p className="text-gray-900 dark:text-white text-base font-medium">support@selenae.com</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3 p-4 rounded-lg border border-pink-100/50 dark:border-pink-800/30 bg-gradient-to-r from-white to-pink-50/30 dark:from-gray-800 dark:to-pink-900/10">

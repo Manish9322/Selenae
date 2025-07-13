@@ -5,7 +5,7 @@ import Link from "next/link"
 import { Animated, AnimatedGroup } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Luxury Beauty Services - GlowVita",
+  title: "Luxury Beauty Services - Selenae",
   description: "Experience premium beauty and wellness services tailored to enhance your natural beauty",
 }
 
@@ -149,7 +149,7 @@ export default function ServicesPage() {
                   <span>Our Approach</span>
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl mt-4 text-gray-900 dark:text-white">
-                  The <span className="text-pink-600 dark:text-pink-400">GlowVita</span> Experience
+                  The <span className="text-pink-600 dark:text-pink-400">Selenae</span> Experience
                 </h2>
                 <p className="mx-auto max-w-[700px] text-gray-600 dark:text-gray-300 text-lg pt-4">
                   Our professional beauty services follow a four-step process designed to ensure you receive the best possible care and results.
@@ -485,7 +485,7 @@ export default function ServicesPage() {
                 <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md relative">
                   <div className="absolute -top-4 left-6 text-5xl text-pink-200 dark:text-pink-800">"</div>
                   <p className="text-gray-600 dark:text-gray-300 text-sm mb-4 pt-4">
-                    The hair styling services at GlowVita are exceptional. My stylist listened carefully to what I wanted and delivered beyond my expectations. I've never received so many compliments!
+                    The hair styling services at Selenae are exceptional. My stylist listened carefully to what I wanted and delivered beyond my expectations. I've never received so many compliments!
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 rounded-full bg-pink-100 dark:bg-pink-900/30"></div>
@@ -501,7 +501,7 @@ export default function ServicesPage() {
                 <div className="bg-white dark:bg-gray-800 p-6 rounded-xl shadow-md relative">
                   <div className="absolute -top-4 left-6 text-5xl text-pink-200 dark:text-pink-800">"</div>
                   <p className="text-gray-600 dark:text-gray-300 text-sm mb-4 pt-4">
-                    I treat myself to a monthly massage at GlowVita and it's always a highlight. The therapists are skilled and attentive, creating a truly relaxing experience every time.
+                    I treat myself to a monthly massage at Selenae and it's always a highlight. The therapists are skilled and attentive, creating a truly relaxing experience every time.
                   </p>
                   <div className="flex items-center gap-3">
                     <div className="h-10 w-10 rounded-full bg-pink-100 dark:bg-pink-900/30"></div>
@@ -556,7 +556,7 @@ export default function ServicesPage() {
                       Ready to <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-200 to-purple-200">Transform</span> Your Look?
                     </h2>
                     <p className="text-base md:text-lg text-white/90 mb-8 leading-relaxed max-w-xl">
-                      Experience the GlowVita difference with our premium beauty and wellness services. Our expert stylists and therapists are dedicated to enhancing your natural beauty and helping you feel your absolute best.
+                      Experience the Selenae difference with our premium beauty and wellness services. Our expert stylists and therapists are dedicated to enhancing your natural beauty and helping you feel your absolute best.
                     </p>
                     <div className="flex flex-col sm:flex-row gap-4">
         <Link href="/contact">

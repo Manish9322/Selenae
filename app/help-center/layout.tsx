@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Help Center - GlowVita",
+  title: "Help Center - Selenae",
   description: "Get help with our beauty and wellness booking platform",
 }
 

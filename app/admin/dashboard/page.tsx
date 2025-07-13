@@ -17,7 +17,7 @@ import Image from "next/image"
 import Link from "next/link"
 
 export const metadata = {
-  title: "Admin Dashboard | GlowVita",
+  title: "Admin Dashboard | Selenae",
 }
 
 export default function DashboardPage() {
@@ -42,7 +42,7 @@ export default function DashboardPage() {
         <div className="absolute bottom-0 left-0 w-80 h-80 bg-white/10 rounded-full blur-3xl translate-y-1/2 -translate-x-1/2"></div>
         <div className="relative z-10 flex flex-col md:flex-row justify-between items-start md:items-center gap-4 md:gap-8">
           <div>
-            <h1 className="text-3xl font-bold mb-2">Welcome to GlowVita Dashboard</h1>
+            <h1 className="text-3xl font-bold mb-2">Welcome to Selenae Dashboard</h1>
             <p className="text-white/80 max-w-2xl">Get a quick overview of your business performance, bookings, and customer activity. Here's what's happening today.</p>
           </div>
           <div className="flex gap-3 mt-2 md:mt-0">

@@ -24,7 +24,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Services Management | GlowVita Admin",
+  title: "Services Management | Selenae Admin",
 }
 
 export default function ServicesPage() {

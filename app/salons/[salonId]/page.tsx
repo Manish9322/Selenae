@@ -14,7 +14,7 @@ export function generateMetadata({ params }: { params: { salonId: string } }): M
   const salon = getSalonById(params.salonId)
   
   return {
-    title: `${salon.name} - GlowVita`,
+    title: `${salon.name} - Selenae`,
     description: `Book appointments at ${salon.name} - ${salon.description}`,
   }
 }

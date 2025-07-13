@@ -13,8 +13,8 @@ import {
 } from "lucide-react"
 
 export const metadata: Metadata = {
-  title: "GlowVita Admin",
-  description: "Admin panel for GlowVita Beauty & Wellness Platform",
+  title: "Selenae Admin",
+description: "Admin panel for Selenae Beauty & Wellness Platform",
 }
 
 export default function AdminLayout({
@@ -28,7 +28,7 @@ export default function AdminLayout({
       <aside className="w-64 bg-white border-r border-gray-200 fixed h-full overflow-auto">
         <div className="p-6 border-b border-gray-200">
           <Link href="/" className="flex items-center">
-            <span className="text-2xl font-serif font-bold text-pink-700">GlowVita</span>
+            <span className="text-2xl font-serif font-bold text-pink-700">Selenae</span>
             <span className="ml-2 text-sm bg-pink-100 text-pink-700 px-2 py-0.5 rounded">Admin</span>
           </Link>
         </div>

@@ -111,7 +111,7 @@ export function SiteFooter() {
               <Link href="/" className="inline-block">
                 <div className="flex items-center">
                   <div className="h-10 w-10 rounded-lg bg-gradient-to-br from-pink-500 to-purple-500 flex items-center justify-center text-white font-bold text-xl mr-2">G</div>
-                  <span className="inline-block font-bold text-xl text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600 dark:from-pink-400 dark:to-purple-400">GLOWVITA</span>
+                  <span className="inline-block font-bold text-xl text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600 dark:from-pink-400 dark:to-purple-400">SELENAE</span>
                 </div>
               </Link>
               <p className="text-sm text-gray-600 dark:text-gray-300">
@@ -286,7 +286,7 @@ export function SiteFooter() {
                         <polyline points="22,6 12,13 2,6"></polyline>
                       </svg>
                     </div>
-                    <span className="text-sm text-gray-600 dark:text-gray-300">info@glowvita.com</span>
+                    <span className="text-sm text-gray-600 dark:text-gray-300">info@selenae.com</span>
                   </div>
                 </div>
               </div>
@@ -296,7 +296,7 @@ export function SiteFooter() {
         
         <div className="border-t border-pink-100/50 dark:border-pink-800/30 mt-12 pt-8">
           <p className="text-sm text-gray-500 dark:text-gray-400 text-center">
-            © {new Date().getFullYear()} GlowVita. All rights reserved.
+            © {new Date().getFullYear()} Selenae. All rights reserved.
           </p>
         </div>
       </div>

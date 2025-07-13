@@ -8,7 +8,7 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Animated } from "@/components/animated"
 
 export const metadata: Metadata = {
-  title: "Luxury Salons - GlowVita",
+  title: "Luxury Salons - Selenae",
   description: "Discover our partner salons offering premium beauty and wellness services in elegant settings",
 }
 

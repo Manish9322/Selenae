@@ -7,8 +7,8 @@ import Link from "next/link"
 import { Animated } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Sign Up - GlowVita",
-  description: "Create a new GlowVita account",
+  title: "Sign Up - Selenae",
+  description: "Create a new Selenae account",
 }
 
 export default function SignUpPage() {
@@ -19,7 +19,7 @@ export default function SignUpPage() {
           <div className="text-center">
             <h1 className="text-3xl font-serif font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Create an account</h1>
             <p className="mt-3 text-base text-gray-600 dark:text-gray-400">
-              Join GlowVita for personalized beauty services
+              Join Selenae for personalized beauty services
             </p>
           </div>
         </Animated>

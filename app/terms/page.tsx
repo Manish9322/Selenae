@@ -1,8 +1,8 @@
 import { Animated } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Terms of Service - GlowVita",
-  description: "GlowVita Terms of Service and Conditions",
+  title: "Terms of Service - Selenae",
+  description: "Selenae Terms of Service and Conditions",
 }
 
 export default function TermsPage() {
@@ -25,10 +25,10 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-pink-700 dark:text-pink-400 mb-4">1. Introduction</h2>
               <p className="mb-4">
-                Welcome to GlowVita. These Terms of Service govern your use of our website and services. By accessing or using GlowVita, you agree to be bound by these Terms.
+                Welcome to Selenae. These Terms of Service govern your use of our website and services. By accessing or using Selenae, you agree to be bound by these Terms.
               </p>
               <p>
-                GlowVita provides beauty and wellness services, including but not limited to appointments, consultations, and product recommendations. These Terms outline the rules for using our platform and the various services we offer.
+                Selenae provides beauty and wellness services, including but not limited to appointments, consultations, and product recommendations. These Terms outline the rules for using our platform and the various services we offer.
               </p>
             </section>
           </Animated>
@@ -37,7 +37,7 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-pink-700 dark:text-pink-400 mb-4">2. Eligibility</h2>
               <p className="mb-4">
-                To use GlowVita, you must be at least 18 years old and capable of forming a binding contract. By using our services, you represent and warrant that you meet these requirements.
+                To use Selenae, you must be at least 18 years old and capable of forming a binding contract. By using our services, you represent and warrant that you meet these requirements.
               </p>
               <p>
                 If you are using the service on behalf of a business or other entity, you represent that you have the authority to bind that entity to these Terms.
@@ -52,7 +52,7 @@ export default function TermsPage() {
                 When you create an account with us, you must provide accurate and complete information. You are responsible for safeguarding your password and for all activities that occur under your account.
               </p>
               <p>
-                You agree to notify us immediately of any unauthorized use of your account. GlowVita cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
+                You agree to notify us immediately of any unauthorized use of your account. Selenae cannot and will not be liable for any loss or damage arising from your failure to comply with the above requirements.
               </p>
             </section>
           </Animated>
@@ -61,7 +61,7 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-pink-700 dark:text-pink-400 mb-4">4. Booking and Cancellation</h2>
               <p className="mb-4">
-                GlowVita allows you to book appointments with beauty professionals through our platform. When you book an appointment, you agree to arrive on time and to provide at least 24 hours' notice for cancellations or rescheduling.
+                Selenae allows you to book appointments with beauty professionals through our platform. When you book an appointment, you agree to arrive on time and to provide at least 24 hours' notice for cancellations or rescheduling.
               </p>
               <p>
                 Late cancellations or no-shows may result in a cancellation fee, as determined by the individual service provider's policies.
@@ -73,10 +73,10 @@ export default function TermsPage() {
             <section className="mb-8">
               <h2 className="text-2xl font-bold text-pink-700 dark:text-pink-400 mb-4">5. Limitation of Liability</h2>
               <p className="mb-4">
-                GlowVita is provided on an "as is" and "as available" basis. We make no warranties, expressed or implied, regarding the reliability or availability of the service.
+                Selenae is provided on an "as is" and "as available" basis. We make no warranties, expressed or implied, regarding the reliability or availability of the service.
               </p>
               <p>
-                To the maximum extent permitted by law, in no event shall GlowVita be liable for any indirect, punitive, incidental, special, or consequential damages arising out of or in any way connected with your use of our services.
+                To the maximum extent permitted by law, in no event shall Selenae be liable for any indirect, punitive, incidental, special, or consequential damages arising out of or in any way connected with your use of our services.
               </p>
             </section>
           </Animated>

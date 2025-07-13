@@ -24,7 +24,7 @@ export function SiteHeader() {
         <div className="flex gap-6 md:gap-8 lg:gap-12">
           <Animated animation="fade-in" duration={0.5}>
             <Link href="/" className="flex items-center">
-              <span className="inline-block font-bold text-xl sm:text-2xl text-pink-700 dark:text-pink-500">GLOWVITA</span>
+              <span className="inline-block font-bold text-xl sm:text-2xl text-pink-700 dark:text-pink-500">SELENAE</span>
             </Link>
           </Animated>
           {!isMobile && <MainNav />}
@@ -61,7 +61,7 @@ export function SiteHeader() {
                 <div className="flex flex-col gap-6 py-6">
                   <div className="flex items-center justify-between mb-4">
                     <Link href="/" className="flex items-center">
-                      <span className="inline-block font-bold text-xl text-pink-700 dark:text-pink-500">GLOWVITA</span>
+                      <span className="inline-block font-bold text-xl text-pink-700 dark:text-pink-500">SELENAE</span>
                     </Link>
                   </div>
                   <MainNav className="flex flex-col items-start space-y-5" />

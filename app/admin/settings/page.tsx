@@ -16,7 +16,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Admin Settings | GlowVita Admin",
+  title: "Admin Settings | Selenae Admin",
 }
 
 export default function SettingsPage() {
@@ -46,8 +46,8 @@ export default function SettingsPage() {
                 <Label htmlFor="platform-name">Platform Name</Label>
                 <Input 
                   id="platform-name" 
-                  placeholder="GlowVita Beauty & Wellness" 
-                  defaultValue="GlowVita Beauty & Wellness" 
+                  placeholder="Selenae Beauty & Wellness"
+defaultValue="Selenae Beauty & Wellness" 
                 />
               </div>
               
@@ -56,7 +56,7 @@ export default function SettingsPage() {
                 <Textarea 
                   id="platform-description" 
                   placeholder="Your platform description"
-                  defaultValue="GlowVita is your one-stop destination for all beauty and wellness services, connecting customers with top-rated salons and professionals."
+                  defaultValue="Selenae is your one-stop destination for all beauty and wellness services, connecting customers with top-rated salons and professionals."
                   className="min-h-[100px]"
                 />
               </div>
@@ -66,8 +66,8 @@ export default function SettingsPage() {
                 <Input 
                   id="contact-email" 
                   type="email"
-                  placeholder="contact@glowvita.com" 
-                  defaultValue="contact@glowvita.com" 
+                  placeholder="contact@selenae.com"
+defaultValue="contact@selenae.com" 
                 />
               </div>
               
@@ -114,8 +114,8 @@ export default function SettingsPage() {
                 <Label htmlFor="meta-title">Meta Title</Label>
                 <Input 
                   id="meta-title" 
-                  placeholder="GlowVita - Beauty & Wellness Booking Platform" 
-                  defaultValue="GlowVita - Beauty & Wellness Booking Platform" 
+                  placeholder="Selenae - Beauty & Wellness Booking Platform"
+defaultValue="Selenae - Beauty & Wellness Booking Platform" 
                 />
               </div>
               
@@ -124,7 +124,7 @@ export default function SettingsPage() {
                 <Textarea 
                   id="meta-description" 
                   placeholder="Meta description for your platform"
-                  defaultValue="Book your perfect beauty and wellness experience with GlowVita. Discover top-rated salons, spas, and beauty professionals near you."
+                  defaultValue="Book your perfect beauty and wellness experience with Selenae. Discover top-rated salons, spas, and beauty professionals near you."
                   className="min-h-[100px]"
                 />
               </div>
@@ -173,7 +173,7 @@ export default function SettingsPage() {
                   id="admin-email" 
                   type="email"
                   placeholder="johndoe@example.com" 
-                  defaultValue="admin@glowvita.com" 
+                  defaultValue="admin@selenae.com" 
                 />
               </div>
               

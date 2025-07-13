@@ -8,8 +8,8 @@ import { Animated } from "@/components/ui/animated"
 import { ArrowRight, UserPlus } from "lucide-react"
 
 export const metadata = {
-  title: "Sign In - GlowVita",
-  description: "Sign in to your GlowVita account",
+  title: "Sign In - Selenae",
+  description: "Sign in to your Selenae account",
 }
 
 export default function SignInPage() {
@@ -18,7 +18,7 @@ export default function SignInPage() {
       <div className="w-full max-w-5xl space-y-8">
         <Animated animation="fade-in-up">
           <div className="text-center">
-            <h1 className="text-3xl font-serif font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Welcome to GlowVita</h1>
+            <h1 className="text-3xl font-serif font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Welcome to Selenae</h1>
             <p className="mt-3 text-base text-gray-600 dark:text-gray-400">
               Sign in to access your personalized beauty experience
             </p>
@@ -103,7 +103,7 @@ export default function SignInPage() {
           <Animated animation="fade-in-up" delay={0.2} className="md:col-span-1">
             <Card className="bg-gradient-to-br from-pink-50 to-pink-100 dark:from-pink-900/20 dark:to-pink-800/10 border-pink-200 dark:border-pink-900/30 h-full flex flex-col">
               <CardHeader className="space-y-1 pb-4">
-                <CardTitle className="text-xl font-bold text-center text-pink-700 dark:text-pink-400">New to GlowVita?</CardTitle>
+                <CardTitle className="text-xl font-bold text-center text-pink-700 dark:text-pink-400">New to Selenae?</CardTitle>
                 <CardDescription className="text-center text-sm text-pink-600/80 dark:text-pink-300/80">
                   Create an account to get started
                 </CardDescription>

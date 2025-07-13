@@ -8,8 +8,8 @@ import Link from "next/link"
 import { Animated, AnimatedGroup } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Beauty Blog - GlowVita",
-  description: "Discover beauty tips, trends, and expert advice from GlowVita specialists",
+  title: "Beauty Blog - Selenae",
+  description: "Discover beauty tips, trends, and expert advice from Selenae specialists",
 }
 
 export default function BlogPage() {

@@ -25,7 +25,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Products Management | GlowVita Admin",
+  title: "Products Management | Selenae Admin",
 }
 
 export default function ProductsPage() {

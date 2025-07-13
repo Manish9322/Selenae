@@ -8,15 +8,15 @@ import { Animated, AnimatedGroup } from "@/components/ui/animated"
 import { Metadata } from "next"
 
 export const metadata = {
-  title: "GlowVita - Beauty & Wellness Booking",
-  description: "Book your perfect beauty and wellness experience with GlowVita",
+  title: "Selenae - Beauty & Wellness Booking",
+description: "Book your perfect beauty and wellness experience with Selenae",
 }
 
 export default function HomePage() {
   const testimonials = [
     {
       name: "Sophie Wright",
-      content: "I've been using GlowVita for all my salon appointments. The service is always exceptional and the booking process is seamless!",
+      content: "I've been using Selenae for all my salon appointments. The service is always exceptional and the booking process is seamless!",
       avatar: "/placeholder-user.jpg",
       rating: 5,
     },
@@ -864,7 +864,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4 sm:px-6 md:px-8 max-w-full md:max-w-7xl relative z-10">
           <Animated animation="fade-in-up">
             <div className="mb-16 space-y-5 text-center">
-              <h2 className="text-3xl font-serif font-bold tracking-tight md:text-4xl lg:text-5xl gradient-heading">Why Choose GlowVita</h2>
+              <h2 className="text-3xl font-serif font-bold tracking-tight md:text-4xl lg:text-5xl gradient-heading">Why Choose Selenae</h2>
               <p className="mx-auto max-w-[700px] text-gray-600 text-lg pt-2">
                 Discover the exceptional benefits that set our premium beauty and wellness platform apart.
               </p>
@@ -967,7 +967,7 @@ export default function HomePage() {
                   <span className="bg-gradient-to-r from-white to-pink-200 bg-clip-text text-transparent">in Your Pocket</span>
                 </h2>
                 <p className="text-white/90 text-base md:text-lg max-w-xl">
-                  Take GlowVita with you wherever you go. Our mobile app makes it effortless to discover, book, and manage your beauty appointments from the palm of your hand.
+                  Take Selenae with you wherever you go. Our mobile app makes it effortless to discover, book, and manage your beauty appointments from the palm of your hand.
                 </p>
                 
                 <div className="space-y-5">
@@ -1050,7 +1050,7 @@ export default function HomePage() {
                     <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-20 h-6 bg-black rounded-b-2xl z-20"></div>
                     <Image
                       src="/placeholder.jpg"
-                      alt="GlowVita App - Booking Screen"
+                      alt="Selenae App - Booking Screen"
                       width={240}
                       height={480}
                       className="w-56 h-auto object-cover"
@@ -1062,7 +1062,7 @@ export default function HomePage() {
                     <div className="absolute top-0 left-1/2 transform -translate-x-1/2 w-20 h-6 bg-black rounded-b-2xl z-20"></div>
                     <Image
                       src="/placeholder.jpg"
-                      alt="GlowVita App - Home Screen"
+                      alt="Selenae App - Home Screen"
                       width={260}
                       height={520}
                       className="w-64 h-auto object-cover"
@@ -1296,7 +1296,7 @@ export default function HomePage() {
                       <div className="text-sm text-gray-500">Verified customer</div>
                       <div className="flex items-center text-pink-600 text-sm font-medium">
                         <CheckCircle className="h-4 w-4 mr-1.5" />
-                        <span>GlowVita Member</span>
+                        <span>Selenae Member</span>
                       </div>
                     </CardFooter>
             </Card>
@@ -1347,7 +1347,7 @@ export default function HomePage() {
                 <div className="flex-1 space-y-5 sm:space-y-6">
                   <h2 className="text-3xl sm:text-4xl font-serif font-bold tracking-tight lg:text-5xl text-white drop-shadow-sm">
                     Ready to Experience<br className="hidden sm:block"/> 
-                    <span className="bg-gradient-to-r from-white to-pink-200 bg-clip-text text-transparent">the GlowVita Difference?</span>
+                    <span className="bg-gradient-to-r from-white to-pink-200 bg-clip-text text-transparent">the Selenae Difference?</span>
                   </h2>
                   
                   <p className="text-white/90 text-base sm:text-lg max-w-2xl mx-auto lg:mx-0 leading-relaxed">

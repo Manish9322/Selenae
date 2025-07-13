@@ -23,7 +23,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Salon Management | GlowVita Admin",
+  title: "Salon Management | Selenae Admin",
 }
 
 export default function SalonsPage() {

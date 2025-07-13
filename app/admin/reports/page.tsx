@@ -12,7 +12,7 @@ import {
 } from "lucide-react"
 
 export const metadata = {
-  title: "Business Reports | GlowVita Admin",
+  title: "Business Reports | Selenae Admin",
 }
 
 export default function ReportsPage() {

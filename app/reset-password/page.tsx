@@ -4,8 +4,8 @@ import Link from "next/link"
 import { Animated } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Reset Password - GlowVita",
-  description: "Reset your GlowVita account password",
+  title: "Reset Password - Selenae",
+  description: "Reset your Selenae account password",
 }
 
 export default function ResetPasswordPage() {
@@ -16,7 +16,7 @@ export default function ResetPasswordPage() {
           <div className="text-center">
             <h1 className="text-3xl font-serif font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">Reset Password</h1>
             <p className="mt-3 text-base text-gray-600 dark:text-gray-400">
-              Recover access to your GlowVita account
+              Recover access to your Selenae account
             </p>
           </div>
         </Animated>

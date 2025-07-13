@@ -5,7 +5,7 @@ import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import Link from "next/link"
 
 export const metadata = {
-  title: "FAQ - GlowVita",
+  title: "FAQ - Selenae",
   description: "Frequently asked questions about our beauty and wellness booking platform",
 }
 
@@ -20,9 +20,9 @@ export default function FaqPage() {
   const faqs = {
     general: [
       {
-        question: "What is GlowVita?",
+        question: "What is Selenae?",
         answer:
-          "GlowVita is a comprehensive beauty and wellness booking platform that connects clients with top-rated salons and spas. We make it easy to discover, book, and enjoy beauty and wellness services in your area.",
+          "Selenae is a comprehensive beauty and wellness booking platform that connects clients with top-rated salons and spas. We make it easy to discover, book, and enjoy beauty and wellness services in your area.",
       },
       {
         question: "How do I create an account?",
@@ -37,7 +37,7 @@ export default function FaqPage() {
       {
         question: "How do I contact customer support?",
         answer:
-          "You can reach our customer support team by email at support@glowvita.com, by phone at (123) 456-7890, or through the contact form on our website. Our support team is available Monday through Friday from 9:00 AM to 6:00 PM.",
+          "You can reach our customer support team by email at support@selenae.com, by phone at (123) 456-7890, or through the contact form on our website. Our support team is available Monday through Friday from 9:00 AM to 6:00 PM.",
       },
     ],
     booking: [
@@ -66,7 +66,7 @@ export default function FaqPage() {
       {
         question: "What types of services can I book?",
         answer:
-          "GlowVita offers a wide range of beauty and wellness services including hair styling and coloring, nail care, facials, massages, waxing, makeup application, and more. The specific services available depend on the salons in your area.",
+          "Selenae offers a wide range of beauty and wellness services including hair styling and coloring, nail care, facials, massages, waxing, makeup application, and more. The specific services available depend on the salons in your area.",
       },
       {
         question: "How do I know if a salon is good?",
@@ -103,7 +103,7 @@ export default function FaqPage() {
       {
         question: "How does the loyalty program work?",
         answer:
-          "Our loyalty program rewards you for booking through GlowVita. You earn points for every booking, which can be redeemed for discounts on future services, free add-ons, or exclusive offers. You can track your points and rewards in your account dashboard.",
+          "Our loyalty program rewards you for booking through Selenae. You earn points for every booking, which can be redeemed for discounts on future services, free add-ons, or exclusive offers. You can track your points and rewards in your account dashboard.",
       },
     ],
   }

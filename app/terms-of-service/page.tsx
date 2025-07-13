@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Terms of Service - GlowVita",
+  title: "Terms of Service - Selenae",
   description: "Terms and conditions for using our beauty and wellness booking services",
 }
 
@@ -13,7 +13,7 @@ export default function TermsOfServicePage() {
 
       <div className="prose prose-lg max-w-none prose-headings:text-pink-800 prose-headings:font-bold prose-headings:mt-10 prose-headings:mb-6 prose-p:text-gray-600 prose-p:leading-relaxed prose-li:text-gray-600 prose-li:leading-relaxed">
         <p className="text-lg">
-          These Terms of Service ("Terms") govern your access to and use of the services provided by GlowVita ("we,"
+          These Terms of Service ("Terms") govern your access to and use of the services provided by Selenae ("we,"
           "us," or "our"). By accessing or using our services, you agree to be bound by these Terms.
         </p>
 
@@ -45,7 +45,7 @@ export default function TermsOfServicePage() {
         <h2 className="text-2xl mt-10">4. Booking and Cancellation</h2>
         <p>
           When you book an appointment through our platform, you are entering into an agreement with the salon or
-          service provider, not with GlowVita. We act as an intermediary to facilitate the booking process.
+          service provider, not with Selenae. We act as an intermediary to facilitate the booking process.
         </p>
         <p>
           Cancellation policies vary by salon. Please review the specific cancellation policy for each salon before
@@ -108,7 +108,7 @@ export default function TermsOfServicePage() {
         <h2 className="text-2xl mt-10">7. Intellectual Property</h2>
         <p>
           Our services and content, including but not limited to text, graphics, logos, button icons, images, audio
-          clips, data compilations, and software, are the property of GlowVita or our licensors and are protected by
+          clips, data compilations, and software, are the property of Selenae or our licensors and are protected by
           copyright, trademark, and other intellectual property laws.
         </p>
 
@@ -132,7 +132,7 @@ export default function TermsOfServicePage() {
 
         <h2 className="text-2xl mt-10">10. Limitation of Liability</h2>
         <p className="font-semibold">
-          IN NO EVENT SHALL GLOWVITA, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT,
+          IN NO EVENT SHALL SELENAE, ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS, BE LIABLE TO YOU FOR ANY DIRECT,
           INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING FROM ANY (I) ERRORS,
           MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER,
           RESULTING FROM YOUR ACCESS TO AND USE OF OUR SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE
@@ -161,7 +161,7 @@ export default function TermsOfServicePage() {
         <h2 className="text-2xl mt-10">13. Contact Information</h2>
         <p>If you have any questions about these Terms, please contact us at:</p>
         <p className="mt-4">
-          <strong className="text-pink-800">Email:</strong> legal@glowvita.com
+          <strong className="text-pink-800">Email:</strong> legal@selenae.com
           <br />
           <strong className="text-pink-800">Address:</strong> 123 Beauty Street, Suite 100, New York, NY 10001
           <br />

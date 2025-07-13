@@ -7,7 +7,7 @@ import { Animated, AnimatedGroup } from "@/components/ui/animated"
 import { Badge } from "@/components/ui/badge"
 
 export const metadata = {
-  title: "Luxury Beauty Products - GlowVita",
+  title: "Luxury Beauty Products - Selenae",
   description: "Shop premium salon-quality beauty products approved by expert stylists and estheticians",
 }
 

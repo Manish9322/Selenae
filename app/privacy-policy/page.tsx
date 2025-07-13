@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Privacy Policy - GlowVita",
+  title: "Privacy Policy - Selenae",
   description: "Our commitment to protecting your privacy",
 }
 
@@ -13,7 +13,7 @@ export default function PrivacyPolicyPage() {
 
       <div className="prose prose-lg max-w-none prose-headings:text-pink-800 prose-headings:font-bold prose-headings:mt-10 prose-headings:mb-6 prose-p:text-gray-600 prose-p:leading-relaxed prose-li:text-gray-600 prose-li:leading-relaxed">
         <p className="text-lg">
-          At GlowVita, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose,
+          At Selenae, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose,
           and safeguard your information when you visit our website or use our beauty and wellness booking services.
         </p>
 
@@ -199,7 +199,7 @@ export default function PrivacyPolicyPage() {
         <h2 className="text-2xl mt-10">Contact Us</h2>
         <p>If you have any questions about this Privacy Policy, please contact us at:</p>
         <p className="mt-4">
-          <strong className="text-pink-800">Email:</strong> privacy@glowvita.com
+          <strong className="text-pink-800">Email:</strong> privacy@selenae.com
           <br />
           <strong className="text-pink-800">Address:</strong> 123 Beauty Street, Suite 100, New York, NY 10001
           <br />

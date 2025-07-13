@@ -251,7 +251,7 @@ export default function ContactPage() {
                 <div>
                     <h3 className="font-semibold text-lg text-gray-900 dark:text-white mb-2">Email Us</h3>
                     <p className="text-gray-600 dark:text-gray-300 text-base">
-                      <a href="mailto:info@glowvita.com" className="hover:text-pink-600 dark:hover:text-pink-400 transition-colors duration-200">info@glowvita.com</a>
+                      <a href="mailto:info@selenae.com" className="hover:text-pink-600 dark:hover:text-pink-400 transition-colors duration-200">info@selenae.com</a>
                     </p>
                     <p className="text-gray-500 dark:text-gray-400 text-sm mt-1">
                       We'll respond within 24 hours

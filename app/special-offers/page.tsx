@@ -6,8 +6,8 @@ import Image from "next/image"
 import { Animated, AnimatedGroup } from "@/components/ui/animated"
 
 export const metadata = {
-  title: "Exclusive Offers | Premium Beauty Deals - GlowVita",
-  description: "Discover limited-time luxury beauty offers, special packages, and exclusive deals on premium salon and spa services at GlowVita.",
+  title: "Exclusive Offers | Premium Beauty Deals - Selenae",
+  description: "Discover limited-time luxury beauty offers, special packages, and exclusive deals on premium salon and spa services at Selenae.",
 }
 
 export default function SpecialOffersPage() {
@@ -28,7 +28,7 @@ export default function SpecialOffersPage() {
     {
       id: 2,
       title: "New Client Welcome Experience",
-      description: "Begin your GlowVita journey with a special introductory offer on any premium service of your choice.",
+      description: "Begin your Selenae journey with a special introductory offer on any premium service of your choice.",
       image: "/placeholder.jpg?height=300&width=600",
       discount: "25% OFF",
       expiresIn: "Ongoing",
