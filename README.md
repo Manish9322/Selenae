@@ -3,7 +3,7 @@
 
 This platform is crafted using modern technologies like **Next.js**, **MongoDB**, **Redux Toolkit with RTK Query**, and **Tailwind CSS**, ensuring a seamless and responsive experience for all users.
 
-![Selenae](static/img/SELENAE.png)
+![Selenae](public/Selenae.png)
 
 ---
 
